@@ -27,7 +27,7 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 </div>
 
 ## Welcome
-Include some information here about your chapter
+Welcome to the OWASP Lucknow Chapter! We are starting this chapter uwith an intent to be able to reach out to people of "The city of nawaabs". Learn, educate and grow thorugh community particpation, networking, and brainstorming together. We are actively looking for more co-leaders, speakers, and to spread the word and reach ot all the like minded people, including in-person meetups when the COVID situation becomes better.
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
